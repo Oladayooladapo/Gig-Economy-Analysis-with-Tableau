@@ -1,0 +1,15 @@
+Freelancer_ID,,Job_Completed,,Earnings_USD,,Hourly_Rate,,Job_Success_Rate,,Client_Rating,,Job_Duration_Days,,Rehire_Rate,,Marketing_Spend,
+,,,,,,,,,,,,,,,,,
+Mean,975.5,Mean,150.8641026,Mean,5017.566667,Mean,52.57977436,Mean,74.95184615,Mean,3.995892308,Mean,44.70461538,Mean,44.55691282,Mean,248.5174359
+Standard Error,12.75081697,Standard Error,1.935758253,Standard Error,66.26719092,Standard Error,0.609789702,Standard Error,0.330981233,Standard Error,0.013043284,Standard Error,0.589304866,Standard Error,0.457300469,Standard Error,3.353455398
+Median,975.5,Median,149,Median,5048,Median,52.285,Median,75.4,Median,3.99,Median,45,Median,43.92,Median,252.5
+Mode,#N/A,Mode,19,Mode,3994,Mode,63.82,Mode,93.87,Mode,4.61,Mode,13,Mode,18.43,Mode,286
+Standard Deviation,563.0608315,Standard Deviation,85.48076991,Standard Deviation,2926.279918,Standard Deviation,26.92758411,Standard Deviation,14.61573549,Standard Deviation,0.575975848,Standard Deviation,26.02299826,Standard Deviation,20.19384192,Standard Deviation,148.0845807
+Sample Variance,317037.5,Sample Variance,7306.962025,Sample Variance,8563114.156,Sample Variance,725.0947862,Sample Variance,213.6197238,Sample Variance,0.331748177,Sample Variance,677.1964384,Sample Variance,407.7912514,Sample Variance,21929.04305
+Kurtosis,-1.2,Kurtosis,-1.205432495,Kurtosis,-1.210607963,Kurtosis,-1.151222288,Kurtosis,-1.226954296,Kurtosis,-1.198202368,Kurtosis,-1.204378081,Kurtosis,-1.191282736,Kurtosis,-1.249807246
+Skewness,2.00262E-16,Skewness,0.002205847,Skewness,-0.007578935,Skewness,0.038974852,Skewness,-0.01144014,Skewness,-0.005309638,Skewness,0.019136788,Skewness,0.04822896,Skewness,-0.014799373
+Range,1949,Range,294,Range,9940,Range,94.81,Range,49.83,Range,2,Range,88,Range,69.95,Range,499
+Minimum,1,Minimum,5,Minimum,51,Minimum,5.02,Minimum,50.16,Minimum,3,Minimum,1,Minimum,10,Minimum,0
+Maximum,1950,Maximum,299,Maximum,9991,Maximum,99.83,Maximum,99.99,Maximum,5,Maximum,89,Maximum,79.95,Maximum,499
+Sum,1902225,Sum,294185,Sum,9784255,Sum,102530.56,Sum,146156.1,Sum,7791.99,Sum,87174,Sum,86885.98,Sum,484609
+Count,1950,Count,1950,Count,1950,Count,1950,Count,1950,Count,1950,Count,1950,Count,1950,Count,1950
